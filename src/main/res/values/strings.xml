@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto_PetersonVelichan</string>
+    <string name="para_fazer_login_selecione_o_bot_o">Para fazer login, selecione o botão</string>
+    <string name="button">Button</string>
+    <string name="edit_massage">Enter a massage</string>
+    <string name="button_send">send</string>
+</resources>
